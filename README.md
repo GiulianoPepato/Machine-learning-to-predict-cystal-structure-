@@ -91,7 +91,7 @@ Foram geradas nuvens para:
      Insira aqui um exemplo de nuvem de probabilidade gerada (screenshot ou exportação do HTML).
      Exemplo: ![Nuvem de Probabilidade - Estrutura Cúbica](images/nuvem_cubica.png)
 --> 
-![Nuvem de probabilidade da estrutura monoclinica do treinamento](imagens/Nuvem de Probabilidade Monoclinica Treinamento.jpg)
+![Nuvem de probabilidade da estrutura monoclinica do treinamento](imagens/Nuvem_de_Probabilidade_Monoclinica_Treinamento.jpg)
 
 ---
 
@@ -111,7 +111,7 @@ Esses grafos permitem identificar tendências do modelo em associar determinados
      Insira aqui um screenshot de um grafo gerado (captura de tela do HTML interativo).
      Exemplo: ![Grafo de Elementos - Estrutura Perovskita](images/grafo_perovskita.png)
 -->
-![grafo dos materiais trigonais do treinamento](imagens/grafo trigonal treinamento.jpg)
+![grafo dos materiais trigonais do treinamento](imagens/grafo_trigonal_treinamento.jpg)
 ---
 
 ## 🤖 Modelo Principal

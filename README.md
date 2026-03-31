@@ -26,7 +26,7 @@ O projeto foi motivado pelo alto custo associado às abordagens tradicionais de 
      Ferramentas sugeridas: draw.io, Figma, ou matplotlib.
      Exemplo: ![Pipeline do Projeto](images/pipeline.png)
 -->
-
+![Pipeline do Projeto](images/pipeline.svg)
 ## 🎯 Objetivos
 
 - Identificar quais **conjuntos de features atômicas** são mais relevantes para a predição de estrutura cristalina;

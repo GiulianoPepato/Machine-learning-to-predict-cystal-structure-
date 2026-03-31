@@ -139,17 +139,17 @@ Dúvidas, sugestões ou interesse no artigo completo?
 Se este trabalho foi útil para sua pesquisa, considere citá-lo:
 
 ```bibtex
-@misc{pepato2024mlcrystal,
-  author       = {Giuliano Pepato, Gustavo Dalpian},
+@misc{pepato2026mlcrystal,
+  author       = {Giuliano Pepato},
   title        = {Machine Learning para Predição de Estrutura Cristalina com Features Atômicas},
   year         = {2026},
   howpublished = {\url{https://github.com/GiulianoPepato/Machine-learning-to-predict-crystal-structure}},
-  note         = {Iniciação Científica, UFABC, orientador: Prof. Dr. Gustavo Dalpian, financiamento: CNPq}
+  note         = {Iniciação Científica, USP, orientador: Prof. Dr. Gustavo Dalpian, financiamento: CNPq}
 }
 ```
 
 ---
 
 <div align="center">
-  <sub>Desenvolvido com ❤️ e muito café durante a iniciação científica na UFABC.</sub>
+  <sub>Desenvolvido com ❤️ e dedicação durante a iniciação científica na USP.</sub>
 </div>

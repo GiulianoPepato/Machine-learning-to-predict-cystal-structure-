@@ -77,7 +77,7 @@ Para compreender as limitações do modelo, desenvolvemos representações visua
 
 **Conceito:** Considere um espaço vetorial onde cada dimensão representa o número atômico (Z) de um elemento. Cada material pode ser mapeado a um ponto nesse espaço a partir de sua composição química. Por exemplo, a molécula de água H₂O — composta por H (Z=1) e O (Z=8) — seria representada como o ponto (1, 8, 0).
 
-Como algoritmos de ML não possuem noção química de ordenação, atribuímos **todas as permutações possíveis** dos elementos ao mesmo material, garantindo invariância à ordem. O conjunto de pontos resultante para cada estrutura cristalina forma uma **nuvem de probabilidade**: regiões mais densas indicam maior probabilidade de encontrar materiais daquela estrutura.
+Como algoritmos de ML não possuem noção química de ordenação, atribuímos **todas as permutações possíveis** dos elementos ao mesmo material, garantindo invariância à ordem. O conjunto de pontos resultante para cada estrutura cristalina forma uma **nuvem de probabilidade**: regiões mais densas indicam maior probabilidade de encontrar materiais daquela estrutura. O raciocínio anterior não é baseado em ciências dos materiais, mas sim uma compreensão lógica que algoritmos de ML podem adotar
 
 Foram geradas nuvens para:
 | Prefixo | Descrição |
